@@ -1,12 +1,12 @@
 # Experiment with Hashicorp Nomad and Consul
 
-This exmaple will launch Hashicorp Nomad and Consul on single node
-Nomad will act as server+client
+This exmaple will launch Hashicorp Nomad and Consul on single node.  
+Nomad will act as server+client    
 
-Traefik will serve as load balancer
-(Webapp.nomad is an exmaple for app running behind load balancer)
+Traefik will serve as load balancer  
+(Webapp.nomad is an exmaple for app running behind load balancer)  
 
-Jenkins (with persistent volume) will be used as exmaple for job running on Nomad cluster
+Jenkins (with persistent volume) will be used as exmaple for job running on Nomad cluster  
 
 ### Nomad
 
